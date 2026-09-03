@@ -8,7 +8,6 @@
 
 - [Sobre o Repositório](#-sobre-o-repositório)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
-- [📂 Estrutura de Pastas](#-estrutura-de-pastas)
 - [📊 Tabela de Exercícios](#-tabela-de-exercícios)
 - [🚀 Como Executar os Projetos](#-como-executar-os-projetos)
 - [✉️ Contato](#️-contato)
@@ -35,17 +34,3 @@ Os exercícios cobrem conceitos cruciais como:
 - **Deploy:** GitHub Pages / Vercel / Netlify
 
 ---
-
-## 📂 Estrutura de Pastas
-
-```text
-.
-├── 01-html-css/              # Exercícios de marcação e estilização
-│   ├── 01-card-de-produto/
-│   └── 02-menu-responsivo/
-├── 02-javascript-dom/         # Lógica de programação e manipulação da DOM
-│   ├── 01-todo-list/
-│   └── 02-consumo-api-fetch/
-├── 03-react-frameworks/       # Projetos com React e frameworks modernos
-│   └── 01-contador/
-└── README.md
