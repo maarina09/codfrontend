@@ -9,8 +9,6 @@
 - [Sobre o Repositório](#-sobre-o-repositório)
 - [🛠️ Tecnologias Utilizadas](#️-tecnologias-utilizadas)
 - [📊 Tabela de Exercícios](#-tabela-de-exercícios)
-- [🚀 Como Executar os Projetos](#-como-executar-os-projetos)
-- [✉️ Contato](#️-contato)
 
 ---
 
